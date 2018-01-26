@@ -6,8 +6,7 @@ userlist = []
 client = discord.Client()
 #server = discord.Server()
 
-Execution_environment = 'Mzg0MTI4NTc5NjMxNDQ4MDY0.DUtKmQ.vVzbX_gRw0NqKjIDDzC2BkfKA3o' #りすき鯖
-#Execution_environment = 'NDA2MTUzOTY1MTY4ODg1NzYx.DUuz6Q.N5XVLA4tuBlGvpsZqLBLl6BnhIw' #xp鯖
+Execution_environment = 'hoge'
 
 
 @client.event
